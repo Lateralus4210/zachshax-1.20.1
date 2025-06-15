@@ -3,7 +3,7 @@
 	"package": "com.zachshax.mixin.client",
 	"compatibilityLevel": "JAVA_17",
 	"client": [
-		"ExampleClientMixin"
+		"DurabilityTooltipMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
